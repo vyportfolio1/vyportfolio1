@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm VY</h1>
-<h3 align="center">A passionate frontend developer/designer</h3>
+<h1 align="left">Hi 👋, I'm VY</h1>
+<h3 align="left">A passionate frontend developer/designer</h3>
 
 - 🌱 I’m currently learning **JavaScript, React js**
 
