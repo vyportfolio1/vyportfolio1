@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React js**
 
-- 👨‍💻 All of my projects are available at [www.vyportfolio.com](www.vyportfolio.com)
+- 👨‍💻 All of my projects are available at ([www.vyportfolio.com](https://vyportfolio.com))
 
 - 📫 How to reach me **vyportfolio1@gmail.com**
 
